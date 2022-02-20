@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tahaWeb/static/css/main.a42afb45.css",
+    "main.js": "/tahaWeb/static/js/main.5a740b87.js",
+    "index.html": "/tahaWeb/index.html",
+    "main.a42afb45.css.map": "/tahaWeb/static/css/main.a42afb45.css.map",
+    "main.5a740b87.js.map": "/tahaWeb/static/js/main.5a740b87.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a42afb45.css",
+    "static/js/main.5a740b87.js"
+  ]
+}
